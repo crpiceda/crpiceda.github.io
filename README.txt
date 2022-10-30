@@ -1,7 +1,5 @@
 tbd:
-- cv
-- publications
-- icons social networks
+- fix spacing between sections
 
 
 Credits:
